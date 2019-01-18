@@ -11,3 +11,10 @@ mtent12.txt
 tests/benchmark-range/*
 !tests/benchmark-range/*.cpp
 !tests/benchmark-range/*.hpp
+
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo
+buckaroo_macros.bzl
